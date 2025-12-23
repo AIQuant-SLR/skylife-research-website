@@ -1,0 +1,29 @@
+# Dependencies
+node_modules
+
+# Development files
+*.log
+*.lock
+.pnpm-debug.log*
+
+# Testing
+coverage
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# Documentation
+README.md
+IMPLEMENTATION_SUMMARY.md
+legacy_code
+
+# Editor files
+.vscode
+.idea
+*.swp
+*.swo
+
+# Git
+.git
+.gitignore
